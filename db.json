@@ -11,5 +11,8 @@
     { "id": 4, "texto": "Implementar en Angular", "tarjetaId": 2},
     { "id": 5, "texto": "Pruebas nitarias", "tarjetaId": 3},
     { "id": 6, "texto": "Pruebas integrales", "tarjetaId": 3},
-  ]
+  ],
+  "profile": {
+    "name": "YOSOFT"
+  }
 }
